@@ -21,14 +21,6 @@ I use the following:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40">
 </p>
-<h2 align="center">
-  My Contribution Graph:
-</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdhemmings/mdhemmings/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdhemmings/mdhemmings/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mdhemmings/mdhemmings/output/github-contribution-grid-snake.svg">
-</picture>
 
 ## Working with me
 
