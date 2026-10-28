@@ -1,76 +1,79 @@
 ### Hi there 👋
 
-I'm Matt, an SRE / DevOps / Software Development enthusiast from Powys in Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿.
+I'm Matt, a **Principal Software Architect** based in South Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿, with 20 years in tech, from helpdesk to platform architecture.
 
-I use the following:
+I lead the architecture of a multi-tenant freight and shipping platform at SpeedyFreight. Before that I spent years in SRE and DevOps, building and running platforms that served 20M+ monthly visits across AWS, GCP and Azure.
 
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-plain.svg" alt="Ansible" width="40" height="40"/> 
+[🌐 matt.beeinked.co](https://matt.beeinked.co) · [✉️ matt@beeinked.co](mailto:matt@beeinked.co)
+
+### What I'm working on
+
+* 🏗️ **Multi-tenant platform design**: a hardened shared core with per-tenant config and feature flags, so new franchises onboard through configuration, not code changes
+* 🧹 **Tech debt remediation without a feature freeze**: evidence-based audit, debt ranked by business cost, then guardrails (tests, decision records, CI gates) to stop it coming back
+* 🤖 **AI adoption**: rolling out Claude across a dev team for PR review, readable error messages and ticket-lifecycle context
+* 🐝 **Beeinked & [Beestocked](https://stock.beeinked.co)**: two SaaS products I founded for the tattoo and beauty industry (Go, TypeScript, iOS & Android)
+
+### Things I've done that I'm proud of
+
+* Moved releases into the working day with slot-based deployments, ending regular release overtime for the team
+* Migrated 4 applications from Elastic Beanstalk to EKS (100% Beanstalk to 100% Kubernetes)
+* Cut AWS costs by 25% by finding and removing wasted spend
+* Directed the build of a Backstage developer portal integrating AWS, HR systems and incident tooling
+
+### Tech I use
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/packer/packer-original.svg" alt="packer" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/podman/podman-original.svg" alt="podman" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pulumi/pulumi-original.svg" alt="Pulumi" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 </p>
 
 ## Working with me
 
-### My Personality
+### How I think
 
-I'm a Logician (INTP) type which is defined as:
+I'm an INTP: I love analysing patterns and taking unconventional routes to a solution. I'll often play devil's advocate to make sure every side of a problem has been considered, even when I agree with everyone else. I'm at my best on strategy and long-term planning, and I'm known for taking on the tricky, hard-to-get-done projects (one team called me "make it happen Hemmings").
 
-> A Logician (INTP) is someone with the Introverted, Intuitive, Thinking, and Prospecting personality traits. These flexible thinkers enjoy taking an unconventional approach to many aspects of life. They often seek out unlikely paths, mixing willingness to experiment with personal creativity.
+I sometimes think out loud, so an early idea from me is a starting point, not a final position. I'll happily change my mind when the evidence points somewhere else.
 
-I love to analyse patterns, but don't ask me to explain my methods for reaching conclusions because quite often I simply don't know what it is. You shouldn't always hold me at my word as sometimes I have ideas and theories that I haven't actually thought through to their natural conclusion, and sometimes that involves me changing my mind half way through the process.
+### What I bring
 
-Quite often I will play the role of devil's advocate to ensure that all sides of a problem are being considered; even if I completely agree with the same thought process everyone else has.
+* **Analytical**: give me a weird and wonderful problem and I'll work out why it happens, how to stop it, and how to do better next time
+* **Original**: I'll suggest creative, counterintuitive solutions. Some of them even work.
+* **Curious**: when something new catches my interest, I go all in on learning it
+* **Objective**: I care about evidence over ideology, so I'm a good person to challenge assumptions
 
-I could spend all day running ideas and possibilites through my head, so I tend to do very well with strategic level and long term planning and making sure things work out *just as planned*.
+### What to know
 
-My comfort zone is logic and rationality (surprising right) and as a result I can find myself baffled by illogical and irrational ways that feelings and emotions influence people's behaviours and decisions.
+* I'm always looking at the bigger picture. If I'm extending your idea, I'm not dismissing it
+* I may need time to fully analyse an idea before I get it, so bear with me
+* I can get absorbed in perfecting things, so feel free to nudge me towards "done"
+* I'm terrible with names right after an introduction. Apologies in advance!
 
-### Strengths
+### Communication
 
-* Analytical - give me a wierd and wonderful problem and I'll figure out why it happens, how to stop it happening and how to do things better in the future
-* Original - I will likely come up with some very creative and counterintuitive solutions that wouldn't occur to most people. Some of these even work.
-* Open-Minded - I'm driven by curiosity and an intense desire to learn everything I can so I'm more than happy to try anything as long as it makes some kind of logical sense
-* Curious - when something new piques my interest then I will go all in on it and learn everything about it
-* Objective - I care about the truth rather than taking comfort in ideology or recieved ideas so I can generally be relied upon to combat bias and misinformation.
+* Skip the "Hi" and get straight to the point. I don't mind at all
+* Async is my preference. If I message late or at the weekend, it's so I don't forget an idea; reply when you start your workday
+* Emojis are fine, GIFs are encouraged if appropriately humorous
+* In meetings I prefer small groups. I may be quiet, but I'm listening, and I pause rather than say "erm", so give me a second before jumping in
 
-### Weaknesses
+### Outside work
 
-* Disconnected - I can get lost in my own chain of thought, even when I'm with other people. This can make me feel a little disconnected at times, especially in larger social gatherings
-* Insensitive - As I see rationality as the key to a better, happier world I can underestimate the importance of such values as emotion, compassion, etiquette and tradition. As a result I can inadvertently come across as insensitive or unkind, even though my intentions are generally good
-* Dissatisfied - due to my analytical nature I can't help but imagine how things could be better than they are. Which can become overwhelming as I find myself caught up in solving all the problems rather than just the ones that matter
-* Impatient - I take pride in my knowledge and sharing my ideas; however the flip side is that if the conversation partner doesn't follow or seem sufficiently interested it can cause me to give up with a 'never mind then'
-* Perfectionist - I want to get things done, but occasionally the quest for perfection can get in the way. I might get so lost in analysing various options that I can never reach a decision
+I run **Queen Bee Tattoos**, an appointment-only tattoo studio in Wales. I'm into gardening, Warhammer 40k, sci-fi (massive Star Trek fan), and rebuilding "the Purple Monster", a £2k, 150k-mile Lexus IS250.
 
-### Conversations
-
-* Feel free to get straight into the point rather than saying 'Hi' - I don't mind at all
-* Slack is usually the best way to get me, Email is likely to be ignored, if it's super urgent then call
-* Emojis are fine, Gifs are encouraged if appropriately humourous
-* I prefer asynchronous communication via Slack. If you got my message, you don’t have to reply instantly. Sometimes you may get my Slack message on the weekends or in the late evening. I shared it with you because I just came up with an idea and don’t want to forget it. I don’t expect a reply on the weekend, on your vacation and when you are away. Reply when you start your workday.
-
-### Me in Meetings
-
-* I prefer smaller meetings to larger ones
-* I might be fairly quiet but that's not to say I'm not paying attention
-* I'll likely use humour to deflect away from my anxiety
-* I tend to speak fairly slowly and pause rather than saying 'erm' a lot (because I hate it) so give me a couple of seconds to make sure I'm not still making a point :)
-
-### In General
-
-* I'm often thinking of the bigger picture, so don't take this as me dismissing your work or the point you're making I'm just always wanting to extend things as far as they can go
-* I love new ideas, so if you want to try something whacky then let me know and we'll get it done
-* Logicians are the most likely personality type to have trouble remembering people's names right after they introduce themselves - so if I do that then I apologise in advance
-* I might not 100% get your idea until I've had chance to analyse it completely, so if I seem to be being annoying or thick then that's the reason why
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdhemmings/mdhemmings/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mdhemmings/mdhemmings/output/github-contribution-grid-snake.svg">
+</picture>
