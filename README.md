@@ -4,7 +4,7 @@ I'm Matt, a **Principal Software Architect** based in South Wales 🏴󠁧󠁢�
 
 I lead the architecture of a multi-tenant freight and shipping platform at SpeedyFreight. Before that I spent years in SRE and DevOps, building and running platforms that served 20M+ monthly visits across AWS, GCP and Azure.
 
-[🌐 matt.beeinked.co](https://matt.beeinked.co) · [✉️ matt@beeinked.co](mailto:matt@beeinked.co)
+I also work with UK startups and scale-ups as a fractional CTO: [🌐 Matt Hemmings, Fractional CTO](https://matt.beeinked.co) · [📝 Articles](https://matt.beeinked.co/articles/) · [💼 LinkedIn](https://www.linkedin.com/in/matthew-hemmings-1a387315/) · [✉️ matt@beeinked.co](mailto:matt@beeinked.co)
 
 ### What I'm working on
 
